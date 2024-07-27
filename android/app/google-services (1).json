@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382821376970",
+    "project_id": "blog-daily-app",
+    "storage_bucket": "blog-daily-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382821376970:android:d098e92dd9827312bf6533",
+        "android_client_info": {
+          "package_name": "com.classicit.blog_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXaYpVm1yrX_Bq5g3gi5jc4mHIvDsf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
